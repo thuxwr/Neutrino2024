@@ -4,10 +4,10 @@ Additional documents for Poster 569, "Analysis methods and the Bayesian approach
 The preprint of the KATRIN data release can be found [here](https://www.katrin.kit.edu/publikationen/PREPRINT_Direct_neutrino_mass_measurement_based_on_259_days_of_KATRIN_data.pdf).
 
 # Files
-## The KATRIN spectrum
+## [The KATRIN spectrum](The%20KATRIN%20spectrum.pdf)
 The beta decay spectrum for the KATRIN experiment, and the measured integrated spectrum. A neutrino mass dependency can be found in this file.
 
-## Detector response
+## [Detector response](Detector%20response.pdf)
 The response function for the KATRIN spectrometer.
 
 ## The shifted analyzing plane
