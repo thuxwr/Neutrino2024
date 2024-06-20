@@ -1,5 +1,5 @@
-# Main content
-Additional documents for Poster 569, "Analysis methods and the Bayesian approach for the KATRIN experiment".
+# Introduction
+This repository provides additional documents for Poster 569, "Analysis methods and the Bayesian approach for the KATRIN experiment".
 
 The preprint of the KATRIN data release can be found [here](https://www.katrin.kit.edu/publikationen/PREPRINT_Direct_neutrino_mass_measurement_based_on_259_days_of_KATRIN_data.pdf).
 
